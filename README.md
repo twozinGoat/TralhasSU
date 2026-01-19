@@ -1,2 +1,3 @@
 # TralhasSU
-A Magisk module for optimization, iOS emojis, hiding/cleaning strokes and enabling blur in Android 12+ ROMs *if you want to disable the blur, go to the "common" folder at the root of the module and change "=1" to "=0" in the line "ro.surface_flinger.supports_background_blur"* ⚡💯
+​A Magisk module designed for system optimization, iOS emojis, and UI enhancements. It focuses on hiding root and bootloader status, removing debugging traces, and improving disk performance for a smoother experience. Additionally, it
+enables/disable blur on Android 12+ roms.
