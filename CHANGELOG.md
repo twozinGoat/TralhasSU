@@ -1,1 +1,1 @@
-• Unlock 120fps option in free fire
+• iOS emoji updated to 26.4
